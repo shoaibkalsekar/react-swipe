@@ -93,7 +93,7 @@ var ReactSwipe = function (_Component) {
           _react2.default.Children.map(children, function (child) {
             // console.log("Child styles in swipe\n", child.)
             return _react2.default.cloneElement(child, {
-              style: style.child
+              style: child.props.style ? objectAssign(child.props.style, style.child) : style.child
             });
           })
         )
