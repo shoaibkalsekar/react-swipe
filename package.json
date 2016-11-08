@@ -136,5 +136,5 @@
     "lint-dev": "eslint --fix ./src",
     "test": "echo \"Comming soon ;)\" && exit 0"
   },
-  "version": "5.0.5"
+  "version": "5.0.6"
 }
