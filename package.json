@@ -1,51 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "react-swipe@5.0.x",
-        "scope": null,
-        "escapedName": "react-swipe",
-        "name": "react-swipe",
-        "rawSpec": "5.0.x",
-        "spec": ">=5.0.0 <5.1.0",
-        "type": "range"
-      },
-      "/Users/shoaibkalsekar/Desktop/work/sapphire"
-    ]
-  ],
-  "_from": "react-swipe@>=5.0.0 <5.1.0",
-  "_id": "react-swipe@5.0.5",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-swipe",
-  "_nodeVersion": "6.4.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/react-swipe-5.0.5.tgz_1473923452437_0.04392045782878995"
-  },
-  "_npmUser": {
-    "name": "dmitri",
-    "email": "dmitri.voronianski@gmail.com"
-  },
-  "_npmVersion": "3.10.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "react-swipe@5.0.x",
-    "scope": null,
-    "escapedName": "react-swipe",
-    "name": "react-swipe",
-    "rawSpec": "5.0.x",
-    "spec": ">=5.0.0 <5.1.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-swipe/-/react-swipe-5.0.5.tgz",
-  "_shasum": "a1be51629cd24c8bb5e75eb4b08a16eb7e04c451",
-  "_shrinkwrap": null,
-  "_spec": "react-swipe@5.0.x",
-  "_where": "/Users/shoaibkalsekar/Desktop/work/sapphire",
   "author": {
     "name": "Dmitri Voronianski",
     "email": "dmitri.voronianski@gmail.com"
@@ -94,11 +47,6 @@
     "webpack-umd-external": "^1.0.2"
   },
   "directories": {},
-  "dist": {
-    "shasum": "a1be51629cd24c8bb5e75eb4b08a16eb7e04c451",
-    "tarball": "https://registry.npmjs.org/react-swipe/-/react-swipe-5.0.5.tgz"
-  },
-  "gitHead": "e33fe8791cb01e083e285cf042238c3d5b9baa72",
   "homepage": "https://github.com/voronianski/react-swipe",
   "keywords": [
     "react",
@@ -136,5 +84,5 @@
     "lint-dev": "eslint --fix ./src",
     "test": "echo \"Comming soon ;)\" && exit 0"
   },
-  "version": "5.0.6"
+  "version": "6.0.0"
 }
